@@ -1,5 +1,5 @@
 {
-    "name": "gregwar/captcha",
+    "name": "jc-gregwar/captcha",
     "type": "library",
     "description": "Captcha generator",
     "keywords": ["captcha", "spam", "bot"],
