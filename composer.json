@@ -22,6 +22,9 @@
         "ext-mbstring": "*",
         "symfony/finder": "*"
     },
+    "config": {
+        "github-protocols": ["https"]
+    },    
     "autoload": {
         "psr-4": {
             "Gregwar\\": "src/Gregwar"
